@@ -1,7 +1,7 @@
 # tool (if this is a tool)
-# class_name ClassName in PascalCase (also use PascalCase when loading classes into a variable)
+# class_name ClassName (in PascalCase, also use PascalCase when loading classes into a variable)
 extends %BASE%
-# docstring
+# docstring (comment explaining what this script or class does)
 
 # signals (snake_case, past tense)
 # enums (PascalCase for enum names, CONSTANT_CASE for enum members)
